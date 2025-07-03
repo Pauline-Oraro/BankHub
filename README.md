@@ -1,1 +1,1 @@
-# BankHub - A Modern React App
+# BankHub - A Modern React Landing Page
