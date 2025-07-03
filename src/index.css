@@ -55,6 +55,10 @@
   font-family: var(--font-poppins);
 }
 
+.bg-primary{
+  background-color: var(--color-primary);
+}
+
 .xs{
   min-width: var(--breakpoint-xs);
 }
